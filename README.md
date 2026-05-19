@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-empire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Velvet Empire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-empire/) |
+| **Get License** | [Request Licensing for Velvet Empire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-empire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9cb4161dace24e1f493fea67a392f37463b28bf005894cff6666bc3a3d7a1707` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
