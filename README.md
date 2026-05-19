@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-empire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Velvet Empire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-empire/) |
+| **Get License** | [License this song: Velvet Empire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-empire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kaali raat de hanere vich glowing eyes takkda,
+> Tainu labhda haan main midnight chase karda,
+> Teri ikk muskaan utte my heart dhadakda,
+> Sari duniya bhula ke just you main mangda.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
